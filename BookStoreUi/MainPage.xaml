@@ -49,6 +49,7 @@
             <Button x:Name="SignInBtn" Grid.Row="3"  VerticalAlignment="Bottom" Width="400" Margin="25,0,25,0" Background="#CCFBFBFB"
                     FontFamily="Gabriola" Content="SIGN IN" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Center" HorizontalAlignment="Center"
                     FontSize="23" FontWeight="Bold" FontStretch="Expanded" Height="50.9985" BorderBrush="#FF612F7E" BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" Tapped="SignIn_Tapped"/>
+            <TextBlock Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" FontFamily="Gabriola" x:Name="ErrorBlock" Text=""/>
             <Image Source="/Assets/purpleLogo-removebg-preview.png" Grid.Row="5" Opacity="0.6" Width="74" Height="76" VerticalAlignment="Bottom"  />
             <TextBlock Grid.Row="6" Text="By Nisan Erez and Stav Ben shabat" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Gabriola" FontSize="18"/>
 

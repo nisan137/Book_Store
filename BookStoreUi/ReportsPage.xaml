@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="BookStoreUi.ReportsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookStoreUi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/backgrondBook.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" >
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#99225873" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalTextAlignment="Center" TextAlignment="Center"
+                   Text="Please choose what kind of report would you like to produce" FontSize="70" TextDecorations="Underline" TextWrapping="Wrap" FontFamily="Gabriola" Foreground="#FFEDC9AB" />
+        <ListView Grid.Row="1" Grid.RowSpan="3" Grid.ColumnSpan="2" SelectionMode="Single" Name="ReportListView" Background="#7F2B7F9C"  >
+            <ListViewItem Name="ReportBuyingItems" Content="Produce report based on items that was baought in the past week" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,20,0,90" Tapped="ReportByLastWeekPurchase_Tapped"/>
+            <ListViewItem Name="ReportDiscountItems" Content="Produce report based on current discounted items" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,0,0,90" Tapped="ReportByDiscountedItems_Tapped"/>
+            <ListViewItem Name="ReportAllItems" Content="Produce report with all inventory items" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,0,0,90" Tapped="ReportByAllInventory_Tapped"/>
+        </ListView>
+        <Button Name="BackBtn" Grid.Row="4" Grid.Column="1" Content="Back To Main Menu" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontFamily="Gabriola"
+                FontSize="60" Foreground="#FF060301" Background="#7F62D4F1" Height="90" Tapped="Back_Tapped"/>
+        <Button Name="ExitBtn" Grid.Row="4" Grid.Column="0" Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontFamily="Gabriola"
+                FontSize="60" Foreground="#FF0C0701" Background="#7F62D4F1" Tapped="Exit_Tapped" Height="90" />
+
+    </Grid>
+</Page>

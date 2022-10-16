@@ -3,25 +3,53 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Items_Manager
 {
-    abstract class Abstract_Item
+    public abstract class Abstract_Item
     {
         private int _isbn;
         public string ItemType { get; set; }
         public string ItemName { get; set; }
         public double BuyingPrice { get; set; }
-        public int ISBN
+        public long ISBN
         {
             get { return _isbn; }
-            protected set { _isbn = value; }
+            protected set { _isbn = (int)value; }
         }
         public string GenreId { get; set; }
         public string Publisher { get; set; }
         public int PublishYear { get; set; }
         public int CopiesAmount { get; set; }
-        public string Description { get; set; }
+        public string AuthorName { get; set; }
+        public double Version { get; set; }
+        public string Description
+        {
+            get
+            {   // Description to show in a TextBlock about the book both in Librarian or User page.
+                if (ItemTypeFigure == "Book")
+                {
+                    return $"{ItemName} is a {ItemType} by author {AuthorName}\nOriginally published on {PublishYear} by publisher {Publisher}\n" +
+                    $"Genre: {GenreEnum} \nBuying price: {BuyingPrice}";
+
+                }
+                else
+                {
+                    return $"{ItemName} is a {ItemType}, version number {Version}\nOriginally published on {PublishYear} by publisher {Publisher}\n" +
+                    $"Genre: {GenreEnum} \nBuying price: {BuyingPrice}";
+                }
+            }
+        }
+        private string ItemTypeFigure
+        {
+            get { return GetType().Name; }
+        }
+
+        public override string ToString()
+        {
+            return ItemName;
+        }
         public double Discount { get; set; }
 
         public string ImagePath { get; set; }
@@ -51,7 +79,10 @@ namespace Items_Manager
         ScienceFiction,
         Documantry,
         Thriller,
-        Childrens
+        Childrens,
+        Buisness,
+        Entertainment,
+        Science
     };
 
 }

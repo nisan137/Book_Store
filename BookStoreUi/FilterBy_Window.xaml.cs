@@ -13,8 +13,6 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
-using Windows.UI.Xaml.Navigation;
-
 
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
@@ -24,41 +22,22 @@ namespace BookStoreUi
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class Store : Page
+    public sealed partial class FilterBy_Window : Page
     {
-        public Store()
+        public FilterBy_Window()
         {
             this.InitializeComponent();
+            this.NavigationCacheMode = NavigationCacheMode.Enabled;
         }
 
-        private void Filter_Tapped(object sender, TappedRoutedEventArgs e)
+        private void Back_Tapped(object sender, Windows.UI.Xaml.Input.TappedRoutedEventArgs e)
         {
-
+            this.Frame.Navigate(typeof(StoreIntro));
         }
 
-        private void ViewMore_Tapped(object sender, TappedRoutedEventArgs e)
-        {
-
-        }
-
-        private void BookSelected_Tapped(object sender, TappedRoutedEventArgs e)
-        {
-
-        }
-
-        private void Exit_Tapped(object sender, TappedRoutedEventArgs e)
+        private void Exit_Tapped(object sender, Windows.UI.Xaml.Input.TappedRoutedEventArgs e)
         {
             Application.Current.Exit();
-        }
-
-        private void EditInventory_Tapped(object sender, TappedRoutedEventArgs e)
-        {
-
-        }
-
-        private void ProduceReports_Tapped(object sender, TappedRoutedEventArgs e)
-        {
-
         }
     }
 }

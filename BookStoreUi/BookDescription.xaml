@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="BookStoreUi.BookDescription"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookStoreUi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/backgrondBook.png" Opacity="0.7"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Name="BackBtn" Grid.Row="0" Grid.Column="0" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="50" Foreground="AntiqueWhite" Background="#7F62D4F1"
+                FontFamily="Gabriola" VerticalContentAlignment="Center" Height="60" Tapped="Back_Tapped"/>
+        <Button Name="PurchaseBtn" Grid.Row="0" Grid.Column="2" Content="Purchase Item" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="50" Foreground="AntiqueWhite" Background="#7F62D4F1"
+                FontFamily="Gabriola" VerticalContentAlignment="Center" Height="60" Tapped="Purchase_Tapped"/>
+        <TextBlock Name="BookDetailsBtn" Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" FontSize="25" FontFamily="Bodoni MT" />
+        <TextBlock Name="BookDescriptionBtn" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" FontSize="25" FontFamily="Bodoni MT"
+                   HorizontalTextAlignment="Center" />
+        <Image Grid.Row="1" Grid.RowSpan="2" Grid.Column="0" Name="SelectedBookImage" />
+ 
+
+    </Grid>
+</Page>

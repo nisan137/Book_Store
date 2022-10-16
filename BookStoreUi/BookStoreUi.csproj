@@ -119,12 +119,24 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="BookDescription.xaml.cs">
+      <DependentUpon>BookDescription.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FilterBy_Window.xaml.cs">
+      <DependentUpon>FilterBy_Window.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Store.xaml.cs">
-      <DependentUpon>Store.xaml</DependentUpon>
+    <Compile Include="PurchaseItem.xaml.cs">
+      <DependentUpon>PurchaseItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsPage.xaml.cs">
+      <DependentUpon>ReportsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreIntro.xaml.cs">
+      <DependentUpon>StoreIntro.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -135,6 +147,7 @@
   <ItemGroup>
     <Content Include="Assets\backgrondBook.png" />
     <Content Include="Assets\BearPaddington.png" />
+    <Content Include="Assets\BookQout.png" />
     <Content Include="Assets\DrSeuss.png" />
     <Content Include="Assets\firstPage.png" />
     <Content Include="Assets\ForbsMagazine.png" />
@@ -175,11 +188,27 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="BookDescription.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FilterBy_Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Store.xaml">
+    <Page Include="PurchaseItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreIntro.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -188,6 +217,16 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.14</Version>
     </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccountsManager\AccountsManager.csproj">
+      <Project>{20A24741-A237-4392-97C6-E5A8F1A24DFA}</Project>
+      <Name>AccountsManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InventoryManager\InventoryManager.csproj">
+      <Project>{E57C1163-F227-47C0-8DDB-9E4BA8416FFA}</Project>
+      <Name>InventoryManager</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

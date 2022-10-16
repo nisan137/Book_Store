@@ -6,22 +6,20 @@ using System.Threading.Tasks;
 
 namespace Items_Manager
 {
-    internal class Journal : Abstract_Item
+    public class Journal : Abstract_Item
     {
-        public double Version { get; set; }
+       
         public Journal(string name, string type, int version, string publisher, Genre genre, int publishYear, string imagePath,
-         double buyingPrice, int isbn, int copiesAmount, string description, double discount)
+         double buyingPrice, int copiesAmount, double discount)
         {
             ItemName = name;
             ItemType = type;
             BuyingPrice = buyingPrice;
-            ISBN = isbn;
             GenreEnum = genre;
             Publisher = publisher;
             PublishYear = publishYear;
             Version = version;
             CopiesAmount = copiesAmount;
-            Description = description;
             Discount = discount;
             ImagePath = imagePath;
         }
@@ -29,10 +27,6 @@ namespace Items_Manager
         {
 
         }
-        public override string ToString()
-        {
-            return $"{ItemName} is a {ItemType}, version number {Version}\nOriginally published on {PublishYear} by publisher {Publisher}\n" +
-        $"Genre: {GenreEnum} \nBuying price: {BuyingPrice}";
-        }
+   
     }
 }
