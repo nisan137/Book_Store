@@ -44,7 +44,7 @@
                      Margin="25,0,25,0" FontFamily="Gabriola" CornerRadius="5,5,5,5"/>
             <TextBlock Grid.Row="2" Text="Password" VerticalAlignment="Top" FontSize="30"  FontFamily="Gabriola"
                        Foreground="#FFE09A9B" FontWeight="Bold" Margin="50,15,0,0" />
-            <TextBox x:Name="PasswordTbx" Grid.Row="2" VerticalAlignment="Bottom"  PlaceholderForeground="White" Width="400" HorizontalAlignment="Center" 
+            <PasswordBox x:Name="PasswordTbx" Grid.Row="2" VerticalAlignment="Bottom"   Width="400" HorizontalAlignment="Center" 
                      Margin="25,0,25,0" FontFamily="Gabriola" InputScope="Password" Foreground="#FFE09A9B" FontWeight="SemiBold" CornerRadius="5,5,5,5"/>
             <Button x:Name="SignInBtn" Grid.Row="3"  VerticalAlignment="Bottom" Width="400" Margin="25,0,25,0" Background="#CCFBFBFB"
                     FontFamily="Gabriola" Content="SIGN IN" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Center" HorizontalAlignment="Center"
@@ -52,7 +52,6 @@
             <TextBlock Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" FontFamily="Gabriola" x:Name="ErrorBlock" Text=""/>
             <Image Source="/Assets/purpleLogo-removebg-preview.png" Grid.Row="5" Opacity="0.6" Width="74" Height="76" VerticalAlignment="Bottom"  />
             <TextBlock Grid.Row="6" Text="By Nisan Erez and Stav Ben shabat" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Gabriola" FontSize="18"/>
-
 
         </Grid>
     </Grid>

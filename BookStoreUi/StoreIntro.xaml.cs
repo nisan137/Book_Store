@@ -34,13 +34,29 @@ namespace BookStoreUi
         private Account currentUserAccount;
         public StoreIntro()
         {
-            
+
             this.InitializeComponent();
             this.NavigationCacheMode = NavigationCacheMode.Enabled;
             this.mainPageBookList = new InventoryStoreManager();
 
         }
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+            // 1st parameter is the BookListManage object, 2nd is the UserManager, 3rd is the current Account (logged in)
+            // Passed as Tuple from MainPage
+            if (e.Parameter is Tuple<object, object, object>)
+            {
+                Tuple<object, object, object> mainPageParams = e.Parameter as Tuple<object, object, object>;
 
+                if (mainPageParams.Item2 != null)
+                    accountManager = mainPageParams.Item2 as AccountManager;
+
+                if (mainPageParams.Item3 != null)
+                {
+                    currentUserAccount = mainPageParams.Item3 as Account;
+                }
+            }
+        }
         private void ViewMore_Tapped(object sender, TappedRoutedEventArgs e)
         {
 
@@ -58,12 +74,41 @@ namespace BookStoreUi
 
         private void EditInventory_Tapped(object sender, TappedRoutedEventArgs e)
         {
-
+            if (currentUserAccount.UserName == "Admin" || currentUserAccount.UserName == "stavAdmin")
+            {
+                this.Frame.Navigate(typeof(ReportsPage));
+            }
+            else
+            {
+                NoPermisionDialog();
+            }
         }
 
         private void ProduceReports_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(ReportsPage));
+            if (currentUserAccount.UserName == "Admin" || currentUserAccount.UserName == "stavAdmin")
+            {
+                this.Frame.Navigate(typeof(ReportsPage));
+            }
+            else
+            {
+                NoPermisionDialog();
+            }
+
+        }
+        private async void NoPermisionDialog()
+        {
+            ContentDialog noPermisionDialog = new ContentDialog
+            {
+                Title = $"You dont have permision to press this button.",
+                Content = "are you an admin? please log in as admin first and than try again.",
+                PrimaryButtonText = "Close"
+            };
+            ContentDialogResult result = await noPermisionDialog.ShowAsync();
+            if (result == ContentDialogResult.Primary)
+            {
+                this.Frame.Navigate(typeof(StoreIntro));
+            }
         }
 
         private void SortedFilter_Clicked(object sender, RoutedEventArgs e)

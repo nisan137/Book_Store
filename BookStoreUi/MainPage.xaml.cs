@@ -37,7 +37,7 @@ namespace BookStoreUi
         private void SignIn_Tapped(object sender, TappedRoutedEventArgs e)
         {
             // Checks if Username Text Box or Password Text Box are empty, will throw a message in the correct control if empty
-            if (UserNameTbx.Text == "" || PasswordTbx.Text == "")
+            if (UserNameTbx.Text == "" || PasswordTbx.Password == "")
             {
                 ErrorBlock.Text = "Please enter username and password";
                 return;
@@ -47,20 +47,23 @@ namespace BookStoreUi
             {
                 ErrorBlock.Text = "Wrong username"; // If such account not exists, throws a message
             }
-            else if (acnt.VerifyPassword(PasswordTbx.Text.ToString()) == false)
+            else if (acnt.VerifyPassword(PasswordTbx.Password.ToString()) == false)
             {
                 ErrorBlock.Text = "Wrong password"; // If password is wrong, throws a message
             }
-            else if (UserNameTbx.Text == acnt.UserName && acnt.VerifyPassword(PasswordTbx.Text.ToString()) == true) // Verification function for password
+            else if (UserNameTbx.Text == acnt.UserName && acnt.VerifyPassword(PasswordTbx.Password.ToString()) == true) // Verification function for password
             {
                 // Checks what type is Account, if Admin, moves to LibrarianPage, if User, moves to UserUI page.
 
-                if (acnt is Admin)   
+                if (acnt is Admin)
                     Frame.Navigate(typeof(StoreIntro), new Tuple<object, object, object>(mainPageBookList, accountManager, acnt));
 
                 else if (acnt is Emploee)
+                {
                     Frame.Navigate(typeof(StoreIntro), new Tuple<object, object, object>(mainPageBookList, accountManager, acnt));
+                }
             }
+
         }
         private void Exit_Tapped(object sender, TappedRoutedEventArgs e)
         {
