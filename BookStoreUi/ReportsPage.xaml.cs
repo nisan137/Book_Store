@@ -13,6 +13,11 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
+using Items_Manager;
+using Windows.Storage;
+using System.Threading.Tasks;
+using BookProject;
+
 
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
@@ -24,10 +29,12 @@ namespace BookStoreUi
     /// </summary>
     public sealed partial class ReportsPage : Page
     {
+
         public ReportsPage()
         {
             this.InitializeComponent();
             this.NavigationCacheMode = NavigationCacheMode.Enabled;
+
         }
 
         private void Exit_Tapped(object sender, Windows.UI.Xaml.Input.TappedRoutedEventArgs e)
@@ -40,19 +47,23 @@ namespace BookStoreUi
             this.Frame.Navigate(typeof(StoreIntro));
         }
 
-        private void ReportByLastWeekPurchase_Tapped(object sender, TappedRoutedEventArgs e)
-        {
 
-        }
 
         private void ReportByDiscountedItems_Tapped(object sender, TappedRoutedEventArgs e)
         {
-
+            this.Frame.Navigate(typeof(ReportByDiscount));
         }
 
         private void ReportByAllInventory_Tapped(object sender, TappedRoutedEventArgs e)
         {
+            this.Frame.Navigate(typeof(ReportByAllInventory));
+        }
+
+        private void ReportByPurchase_Tapped(object sender, TappedRoutedEventArgs e)
+        {
 
         }
+
+
     }
 }

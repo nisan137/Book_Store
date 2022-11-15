@@ -1,0 +1,469 @@
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\App.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AddItemPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\MainPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\PurchaseItem.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportsPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\StoreIntro.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.exe
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\resources.pri
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AppxManifest.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\BookStoreUi.exe
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.build.appxrecipe
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Runtime.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.pri
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.pri
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.pri
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.pri
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AccountsManager.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryManager.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Items_Manager.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\JSON_Logic.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.exe
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Resources.resw
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\priconfig.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\resources.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\pri.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\qualifiers.txt
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\CatalogPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.g.i.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.g.cs
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.xaml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\DiscountPage.xbf
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.Core.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.Core.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.UWP.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.UWP.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ColorCode.UWP.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214534760000000.json
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\App.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AddItemPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\CatalogPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\DiscountPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\MainPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\PurchaseItem.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportsPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\StoreIntro.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.exe
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\resources.pri
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AppxManifest.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\BookStoreUi.exe
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.build.appxrecipe
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.Core.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.Core.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.UWP.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.UWP.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Runtime.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.pri
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.pri
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.pri
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.pri
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.g.i.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.xaml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.xbf
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.CopyComplete
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AccountsManager.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryManager.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Items_Manager.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\JSON_Logic.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ColorCode.UWP.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.exe
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Resources.resw
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\priconfig.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\resources.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\pri.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\qualifiers.txt
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214534760000000.json
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\App.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AddItemPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\CatalogPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\DiscountPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\MainPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\PurchaseItem.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportsPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\StoreIntro.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.exe
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\resources.pri
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AppxManifest.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\BookStoreUi.exe
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.build.appxrecipe
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.Core.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.Core.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.UWP.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ColorCode.UWP.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Runtime.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\System.Text.Json.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AccountsManager.pri
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryManager.pri
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Items_Manager.pri
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\JSON_Logic.pri
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.AssemblyReference.cache
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\App.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AddItemPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\CatalogPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\DiscountPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MainPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\PurchaseItem.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportsPage.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\StoreIntro.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.CoreCompileInputs.cache
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.csproj.CopyComplete
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\AccountsManager.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\InventoryManager.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Items_Manager.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\JSON_Logic.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ColorCode.UWP.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.exe
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\BookStoreUi.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Resources.resw
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\priconfig.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\resources.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\pri.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\qualifiers.txt
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214534760000000.json
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportByAllInventory.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportByBoughtItems.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportByDiscount.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByAllInventory.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByAllInventory.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByBoughtItems.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByBoughtItems.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByDiscount.g.i.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByDiscount.g.cs
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByAllInventory.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByBoughtItems.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByDiscount.xaml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByAllInventory.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByBoughtItems.xbf
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\ReportByDiscount.xbf

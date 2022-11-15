@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="BookProject.ReportByAllInventory"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/backgrondBook.png" Opacity="0.3"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="All Inventory report" Grid.Column="1" HorizontalAlignment="Center" Margin="0,25,0,0" FontSize="40" FontWeight="Bold" FontFamily="Gabriola"></TextBlock>
+        <controls:DataGrid Name="InventoryReportData" Grid.RowSpan="2" Grid.ColumnSpan="3" AutoGenerateColumns="True"  Width="1300" Height="760" FontFamily="Aharoni" FontSize="12" AllowFocusOnInteraction="False"
+                        CanUserSortColumns="True" AlternatingRowBackground="AliceBlue">
+        </controls:DataGrid>
+        <Button Grid.Row="3" Grid.Column="3" HorizontalAlignment="Right" VerticalAlignment="Bottom" Content="Back to main" FontFamily="Gabriola" FontSize="25"  Width="200" Height="40" Background="#FF3A77C8" BorderBrush="#FF204E8C" Tapped="BackToMenu_Tapped" />
+
+    </Grid>
+</Page>

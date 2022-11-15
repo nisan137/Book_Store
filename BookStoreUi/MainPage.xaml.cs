@@ -1,14 +1,14 @@
 ﻿using AccountsManager;
+using BookStoreUi;
 using InventoryManager;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
-using Windows.Devices.Enumeration;
+using System.Security.Principal;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
-using Windows.System;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -19,14 +19,14 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
-namespace BookStoreUi
+namespace BookProject
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        public InventoryStoreManager mainPageBookList = new InventoryStoreManager(); // Main Book List, public for use in other pages to prevent errors
+        // public InventoryStoreManager mainPageBookList = new InventoryStoreManager(); Main Book List, public for use in other pages to prevent errors
         AccountManager accountManager = new AccountManager();
         public MainPage()
         {
@@ -53,14 +53,14 @@ namespace BookStoreUi
             }
             else if (UserNameTbx.Text == acnt.UserName && acnt.VerifyPassword(PasswordTbx.Password.ToString()) == true) // Verification function for password
             {
-                // Checks what type is Account, if Admin, moves to LibrarianPage, if User, moves to UserUI page.
+                //Checks what type is Account, if Admin, moves to LibrarianPage, if User, moves to UserUI page.
 
                 if (acnt is Admin)
-                    Frame.Navigate(typeof(StoreIntro), new Tuple<object, object, object>(mainPageBookList, accountManager, acnt));
+                    Frame.Navigate(typeof(StoreIntro), new Tuple<object, object>(accountManager, acnt));
 
                 else if (acnt is Emploee)
                 {
-                    Frame.Navigate(typeof(StoreIntro), new Tuple<object, object, object>(mainPageBookList, accountManager, acnt));
+                    Frame.Navigate(typeof(StoreIntro), new Tuple<object, object>(accountManager, acnt));
                 }
             }
 

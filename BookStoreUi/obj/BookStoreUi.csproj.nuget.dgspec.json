@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj": {}
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
+        "projectUniqueName": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
         "projectName": "AccountsManager",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\obj\\",
+        "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
+        "packagesPath": "C:\\Users\\nisan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nisan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,6 +42,14 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.14, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -75,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj": {
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj",
+        "projectUniqueName": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj",
         "projectName": "BookStoreUi",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\BookStoreUi\\obj\\",
+        "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\BookStoreUi\\BookStoreUi.csproj",
+        "packagesPath": "C:\\Users\\nisan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\BookStoreUi\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -90,7 +98,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nisan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,11 +112,17 @@
         "frameworks": {
           "uap10.0.17763": {
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj"
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj"
               },
-              "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj"
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj"
+              },
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj"
+              },
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj"
               }
             }
           }
@@ -120,6 +134,22 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.14, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls.DataGrid": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2515, )"
             }
           },
           "imports": [
@@ -153,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj": {
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj",
+        "projectUniqueName": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj",
         "projectName": "InventoryManager",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\InventoryManager\\obj\\",
+        "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\InventoryManager\\InventoryManager.csproj",
+        "packagesPath": "C:\\Users\\nisan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\InventoryManager\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -168,7 +198,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nisan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -182,8 +212,14 @@
         "frameworks": {
           "uap10.0.17763": {
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj"
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj"
+              },
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj"
+              },
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj"
               }
             }
           }
@@ -195,6 +231,14 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.14, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -228,14 +272,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj": {
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj",
+        "projectUniqueName": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj",
         "projectName": "Items_Manager",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\Items_Manager\\obj\\",
+        "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\Items_Manager.csproj",
+        "packagesPath": "C:\\Users\\nisan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\Items_Manager\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -243,7 +287,90 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nisan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj": {
+                "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.14, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj",
+        "projectName": "JSON_Logic",
+        "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\JSON_Logic.csproj",
+        "packagesPath": "C:\\Users\\nisan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\JSON_Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nisan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -266,6 +393,14 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.14, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [

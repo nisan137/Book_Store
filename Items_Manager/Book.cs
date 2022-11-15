@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Items_Manager.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,26 +9,25 @@ namespace Items_Manager
 {
     public class Book : Abstract_Item
     {
-        
+
         public Book(string name, string type, string author, string publisher, Genre genre, int publishYear, string imagePath,
-             double buyingPrice, long isbn, int copiesAmount, double discount)
+             double buyingPrice, long isbn, int copiesAmount)
         {
             ItemName = name;
-            ItemName = type;
-            BuyingPrice = buyingPrice;
-            ISBN = isbn;
+            ItemType = type;
+            AuthorName = author;
             GenreEnum = genre;
             Publisher = publisher;
             PublishYear = publishYear;
-            AuthorName = author;
+            ISBN = isbn;
+            BuyingPrice = buyingPrice;
             CopiesAmount = copiesAmount;
-            Discount = discount;
             ImagePath = imagePath;
         }
         public Book() : base()
         {
 
         }
-      
+
     }
 }

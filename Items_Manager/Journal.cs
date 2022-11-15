@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Items_Manager.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +9,9 @@ namespace Items_Manager
 {
     public class Journal : Abstract_Item
     {
-       
+
         public Journal(string name, string type, int version, string publisher, Genre genre, int publishYear, string imagePath,
-         double buyingPrice, int copiesAmount, double discount)
+         double buyingPrice, int copiesAmount)
         {
             ItemName = name;
             ItemType = type;
@@ -20,13 +21,12 @@ namespace Items_Manager
             PublishYear = publishYear;
             Version = version;
             CopiesAmount = copiesAmount;
-            Discount = discount;
             ImagePath = imagePath;
         }
         public Journal() : base()
         {
 
         }
-   
+
     }
 }

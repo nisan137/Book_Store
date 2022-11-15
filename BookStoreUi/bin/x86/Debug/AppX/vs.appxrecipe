@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-3CHSIRI</Machine>
-    <WindowsUser>ADMIN</WindowsUser>
+    <Machine>LAPTOP-NIFV3QC0</Machine>
+    <WindowsUser>nisan</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>5f618b0e-802e-4942-b387-182029bc1a89</PackageIdentityName>
     <PackageIdentityPublisher>CN=ADMIN</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>true</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>1E2EDC77169EE73FD6FE1E1489C9CB7EF78E10D8FAD5F3EE37742448B4B2EBA0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>5f618b0e-802e-4942-b387-182029bc1a89_1.0.0.0_x86__mdtdy63a0eab0</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>5f618b0e-802e-4942-b387-182029bc1a89_mdtdy63a0eab0!App</RegisteredUserModeAppID>
@@ -27,234 +27,250 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-18T12:17:47.157</Modified>
+      <Modified>2022-10-20T11:51:31.086</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\BookStoreUi.exe">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\BookStoreUi.exe">
       <PackagePath>entrypoint\BookStoreUi.exe</PackagePath>
-      <Modified>2022-10-18T12:17:44.412</Modified>
+      <Modified>2022-10-20T11:51:23.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\newtonsoft.json\9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-06-13T23:06:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2022-06-10T19:24:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\AccountsManager\bin\x86\Debug\AccountsManager.dll">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\x86\Debug\AccountsManager.dll">
       <PackagePath>AccountsManager.dll</PackagePath>
-      <Modified>2022-10-18T09:00:00.222</Modified>
+      <Modified>2022-10-20T11:48:11.002</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\InventoryManager\bin\x86\Debug\InventoryManager.dll">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\InventoryManager\bin\x86\Debug\InventoryManager.dll">
       <PackagePath>InventoryManager.dll</PackagePath>
-      <Modified>2022-10-16T21:19:56.188</Modified>
+      <Modified>2022-10-20T11:50:11.827</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\InventoryManager\bin\x86\Debug\Items_Manager.dll">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\Items_Manager\bin\x86\Debug\Items_Manager.dll">
       <PackagePath>Items_Manager.dll</PackagePath>
-      <Modified>2022-10-16T21:19:55.252</Modified>
+      <Modified>2022-10-20T11:48:12.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\InventoryManager\bin\x86\Debug\JSON_Logic.dll">
+      <PackagePath>JSON_Logic.dll</PackagePath>
+      <Modified>2022-10-20T11:50:09.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T01:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\backgrondBook.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\backgrondBook.png">
       <PackagePath>Assets\backgrondBook.png</PackagePath>
       <Modified>2022-10-12T06:32:23.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\BearPaddington.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\BearPaddington.png">
       <PackagePath>Assets\BearPaddington.png</PackagePath>
       <Modified>2022-10-12T08:19:17.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\BookQout.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\BookQout.png">
       <PackagePath>Assets\BookQout.png</PackagePath>
       <Modified>2022-10-13T09:22:40.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\DrSeuss.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\DrSeuss.png">
       <PackagePath>Assets\DrSeuss.png</PackagePath>
       <Modified>2022-10-12T08:19:17.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\firstPage.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\firstPage.png">
       <PackagePath>Assets\firstPage.png</PackagePath>
       <Modified>2022-10-11T11:48:15.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\ForbsMagazine.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\ForbsMagazine.png">
       <PackagePath>Assets\ForbsMagazine.png</PackagePath>
       <Modified>2022-10-12T09:36:38.811</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\GoneWithTheWind.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\GoneWithTheWind.png">
       <PackagePath>Assets\GoneWithTheWind.png</PackagePath>
       <Modified>2022-10-12T09:24:08.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\GqMagazine.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\GqMagazine.png">
       <PackagePath>Assets\GqMagazine.png</PackagePath>
       <Modified>2022-10-12T09:36:38.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter1.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter1.png">
       <PackagePath>Assets\HarryPotter1.png</PackagePath>
       <Modified>2022-10-12T08:19:17.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter2.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter2.png">
       <PackagePath>Assets\HarryPotter2.png</PackagePath>
       <Modified>2022-10-12T08:19:17.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter3.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter3.png">
       <PackagePath>Assets\HarryPotter3.png</PackagePath>
       <Modified>2022-10-12T08:19:17.793</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter4.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter4.png">
       <PackagePath>Assets\HarryPotter4.png</PackagePath>
       <Modified>2022-10-12T08:19:17.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter5.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter5.png">
       <PackagePath>Assets\HarryPotter5.png</PackagePath>
       <Modified>2022-10-12T08:19:17.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter6.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter6.png">
       <PackagePath>Assets\HarryPotter6.png</PackagePath>
       <Modified>2022-10-12T08:19:17.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter7.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter7.png">
       <PackagePath>Assets\HarryPotter7.png</PackagePath>
       <Modified>2022-10-12T08:19:17.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\Hobbit.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Hobbit.png">
       <PackagePath>Assets\Hobbit.png</PackagePath>
       <Modified>2022-10-12T08:19:17.811</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\JamesAndTheGiantPeach.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\JamesAndTheGiantPeach.png">
       <PackagePath>Assets\JamesAndTheGiantPeach.png</PackagePath>
       <Modified>2022-10-12T08:19:17.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\LittleHouse.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\LittleHouse.png">
       <PackagePath>Assets\LittleHouse.png</PackagePath>
       <Modified>2022-10-12T08:19:17.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\LoveAndWar.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\LoveAndWar.png">
       <PackagePath>Assets\LoveAndWar.png</PackagePath>
       <Modified>2022-10-12T08:19:17.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\PeterPan.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\PeterPan.png">
       <PackagePath>Assets\PeterPan.png</PackagePath>
       <Modified>2022-10-16T14:01:04.030</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\PooBook.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\PooBook.png">
       <PackagePath>Assets\PooBook.png</PackagePath>
       <Modified>2022-10-12T08:19:17.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\purpleLogo-removebg-preview.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\purpleLogo-removebg-preview.png">
       <PackagePath>Assets\purpleLogo-removebg-preview.png</PackagePath>
       <Modified>2022-10-11T11:48:15.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\RobinsonCrusoe.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\RobinsonCrusoe.png">
       <PackagePath>Assets\RobinsonCrusoe.png</PackagePath>
       <Modified>2022-10-12T09:24:08.967</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\ScientificAmericanMagazine.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\ScientificAmericanMagazine.png">
       <PackagePath>Assets\ScientificAmericanMagazine.png</PackagePath>
       <Modified>2022-10-12T09:36:38.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\ShadowAndBone.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\ShadowAndBone.png">
       <PackagePath>Assets\ShadowAndBone.png</PackagePath>
       <Modified>2022-10-12T09:02:48.215</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\TheAlchemist.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\TheAlchemist.png">
       <PackagePath>Assets\TheAlchemist.png</PackagePath>
       <Modified>2022-10-12T09:02:48.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\TheGreatGatsby.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\TheGreatGatsby.png">
       <PackagePath>Assets\TheGreatGatsby.png</PackagePath>
       <Modified>2022-10-12T09:24:08.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\Vogue.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Vogue.png">
       <PackagePath>Assets\Vogue.png</PackagePath>
       <Modified>2022-10-16T14:37:52.063</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\WeAreGiants.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\WeAreGiants.png">
       <PackagePath>Assets\WeAreGiants.png</PackagePath>
       <Modified>2022-10-12T08:19:17.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2022-09-25T06:51:06.242</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-09-25T06:51:06.244</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-09-25T06:51:06.245</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-09-25T06:51:06.245</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-09-25T06:51:06.246</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-09-25T06:51:06.246</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-09-25T06:51:06.247</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2022-10-11T11:46:03.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\BookStoreUi.xr.xml">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\BookStoreUi.xr.xml">
       <PackagePath>BookStoreUi.xr.xml</PackagePath>
-      <Modified>2022-10-18T12:17:44.120</Modified>
+      <Modified>2022-10-20T11:51:22.643</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-10-18T12:17:44.225</Modified>
+      <Modified>2022-10-20T11:51:22.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\BookDescription.xbf">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\AddItemPage.xbf">
+      <PackagePath>AddItemPage.xbf</PackagePath>
+      <Modified>2022-10-20T11:51:22.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\BookDescription.xbf">
       <PackagePath>BookDescription.xbf</PackagePath>
-      <Modified>2022-10-18T12:17:44.225</Modified>
+      <Modified>2022-10-20T11:51:22.802</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\FilterBy_Window.xbf">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\FilterBy_Window.xbf">
       <PackagePath>FilterBy_Window.xbf</PackagePath>
-      <Modified>2022-10-18T12:17:44.227</Modified>
+      <Modified>2022-10-20T11:51:22.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\InventoryPage.xbf">
+      <PackagePath>InventoryPage.xbf</PackagePath>
+      <Modified>2022-10-20T11:51:22.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-10-18T12:17:44.227</Modified>
+      <Modified>2022-10-20T11:51:22.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\PurchaseItem.xbf">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\PurchaseItem.xbf">
       <PackagePath>PurchaseItem.xbf</PackagePath>
-      <Modified>2022-10-18T12:17:44.227</Modified>
+      <Modified>2022-10-20T11:51:22.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\ReportsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\ReportsPage.xbf">
       <PackagePath>ReportsPage.xbf</PackagePath>
-      <Modified>2022-10-18T12:17:44.228</Modified>
+      <Modified>2022-10-20T11:51:22.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\StoreIntro.xbf">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\StoreIntro.xbf">
       <PackagePath>StoreIntro.xbf</PackagePath>
-      <Modified>2022-10-18T12:17:44.224</Modified>
+      <Modified>2022-10-20T11:51:22.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-01T23:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-10-16T21:20:03.395</Modified>
+      <Modified>2022-10-20T11:51:26.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\Core\BookStoreUi.exe">
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x86\Debug\Core\BookStoreUi.exe">
       <PackagePath>BookStoreUi.exe</PackagePath>
-      <Modified>2022-10-18T12:17:47.138</Modified>
+      <Modified>2022-10-20T11:51:31.077</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {}
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {
+    "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
+        "projectUniqueName": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
         "projectName": "AccountsManager",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\מכללת סלע- פיתוח תוכנה\\OOC\\finalProjectBookStore\\BookStoreNumber10000000\\AccountsManager\\obj\\",
+        "projectPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\AccountsManager.csproj",
+        "packagesPath": "C:\\Users\\nisan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisan\\שולחן העבודה\\פרוייקט מסכם C#\\Book_Store\\Book_Store\\BookStoreNumber10000000\\AccountsManager\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nisan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,6 +42,14 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.14, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [

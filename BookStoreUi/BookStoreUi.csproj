@@ -116,14 +116,20 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AddItemPage.xaml.cs">
+      <DependentUpon>AddItemPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="BookDescription.xaml.cs">
-      <DependentUpon>BookDescription.xaml</DependentUpon>
+    <Compile Include="CatalogPage.xaml.cs">
+      <DependentUpon>CatalogPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="FilterBy_Window.xaml.cs">
-      <DependentUpon>FilterBy_Window.xaml</DependentUpon>
+    <Compile Include="DiscountPage.xaml.cs">
+      <DependentUpon>DiscountPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryPage.xaml.cs">
+      <DependentUpon>InventoryPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -131,6 +137,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PurchaseItem.xaml.cs">
       <DependentUpon>PurchaseItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportByAllInventory.xaml.cs">
+      <DependentUpon>ReportByAllInventory.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportByBoughtItems.xaml.cs">
+      <DependentUpon>ReportByBoughtItems.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportByDiscount.xaml.cs">
+      <DependentUpon>ReportByDiscount.xaml</DependentUpon>
     </Compile>
     <Compile Include="ReportsPage.xaml.cs">
       <DependentUpon>ReportsPage.xaml</DependentUpon>
@@ -170,6 +185,7 @@
     <Content Include="Assets\RobinsonCrusoe.png" />
     <Content Include="Assets\ScientificAmericanMagazine.png" />
     <Content Include="Assets\ShadowAndBone.png" />
+    <Content Include="Assets\Square44x44Logo.scale-100.png" />
     <Content Include="Assets\TheAlchemist.png" />
     <Content Include="Assets\TheGreatGatsby.png" />
     <Content Include="Assets\Vogue.png" />
@@ -188,11 +204,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="BookDescription.xaml">
+    <Page Include="AddItemPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="FilterBy_Window.xaml">
+    <Page Include="CatalogPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DiscountPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InventoryPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -201,6 +225,18 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="PurchaseItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportByAllInventory.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportByBoughtItems.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportByDiscount.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -217,6 +253,18 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.14</Version>
     </PackageReference>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.UI.Controls">
+      <Version>7.1.3</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.UI.Controls.DataGrid">
+      <Version>7.1.3</Version>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>9.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms">
+      <Version>5.0.0.2515</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AccountsManager\AccountsManager.csproj">
@@ -226,6 +274,14 @@
     <ProjectReference Include="..\InventoryManager\InventoryManager.csproj">
       <Project>{E57C1163-F227-47C0-8DDB-9E4BA8416FFA}</Project>
       <Name>InventoryManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Items_Manager\Items_Manager.csproj">
+      <Project>{24fe3733-6370-4c0c-ab9c-a88f1ea04afc}</Project>
+      <Name>Items_Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JSON_Logic\JSON_Logic.csproj">
+      <Project>{F3321BB1-FB68-409F-A273-7BFE0FCFBE1D}</Project>
+      <Name>JSON_Logic</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="BookStoreUi.AddItemPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookStoreUi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" MappingMode="RelativeToBoundingBox" SpreadMethod="Reflect">
+                <LinearGradientBrush.RelativeTransform>
+                    <CompositeTransform CenterY="0.5" CenterX="0.5" SkewX="20" SkewY="68"/>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF649CCC" Offset="0.963"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Rectangle Grid.Column="2"  HorizontalAlignment="Center" VerticalAlignment="top" Height="250" Width="250" Margin="10,30,10,10" Fill="LightGray"></Rectangle>
+        <Image x:ConnectionId='2' Grid.Column="2"  HorizontalAlignment="Center" VerticalAlignment="top" x:Name="ImgPreview" Margin="10,30,10,10"  Height="250" Width="250">
+        </Image>
+
+        <StackPanel HorizontalAlignment="Center" Grid.Column="1">
+            <TextBlock Text="Add New Item" Style="{StaticResource TitleTextBlockStyle}"/>
+            <Button x:ConnectionId='7' Height="100" Width="100" Background="LightGray" Content="Add photo" Margin="0,24"                         />
+            <TextBox x:ConnectionId='8' x:Name="ItemName" Header= "Name" Margin="0,24,0,0" MaxLength="35" Width="400"  InputScope="NameOrPhoneNumber" AutomationProperties.IsRequiredForForm="True"/>
+            <ComboBox x:ConnectionId='9' HorizontalAlignment="Left" x:Name="ItemTypeComBox" SelectedIndex="0" Header="Item Type" Margin="0,24,0,0" Width="400" AutomationProperties.IsRequiredForForm="True">
+                <ComboBoxItem x:ConnectionId='28' Name="Book" Content="Book" />
+                <ComboBoxItem x:ConnectionId='29' Name="Journal" Content="Journal"/>
+            </ComboBox>
+            <TextBox x:ConnectionId='10' x:Name="Author" Header="Author name" Margin="0,24,0,0" MaxLength="20" Width="400"  InputScope="PersonalFullName" AutomationProperties.IsRequiredForForm="True"/>
+            <TextBox x:ConnectionId='11' x:Name="Publisher" Header="Publisher" Margin="0,24,0,0" MaxLength="50" Width="400"  InputScope="Text" AutomationProperties.IsRequiredForForm="True"/>
+            <ComboBox x:ConnectionId='12' x:Name="GenreCombox" Header="Genre" Margin="0,24,0,0" Width="400" AutomationProperties.IsRequiredForForm="True">
+                <ComboBoxItem x:ConnectionId='16' Content="GeneralGenre" Name="GeneralGenre"/>
+                <ComboBoxItem x:ConnectionId='17' Content="Comedy" Name="Comedy"/>
+                <ComboBoxItem x:ConnectionId='18' Content="Fantasy" Name="Fantasy"/>
+                <ComboBoxItem x:ConnectionId='19' Content="Drama" Name="Drama"/>
+                <ComboBoxItem x:ConnectionId='20' Content="Novel" Name="Novel"/>
+                <ComboBoxItem x:ConnectionId='21' Content="ScienceFiction" Name="ScienceFiction"/>
+                <ComboBoxItem x:ConnectionId='22' Content="Documantry" Name="Documantry"/>
+                <ComboBoxItem x:ConnectionId='23' Content="Thriller" Name="Thriller"/>
+                <ComboBoxItem x:ConnectionId='24' Content="Childrens" Name="Childrens"/>
+                <ComboBoxItem x:ConnectionId='25' Content="Buisness" Name="Buisness"/>
+                <ComboBoxItem x:ConnectionId='26' Content="Entertainment" Name="Entertainment"/>
+                <ComboBoxItem x:ConnectionId='27' Content="Science" Name="Science"/>
+            </ComboBox>
+            <TextBox x:ConnectionId='13' x:Name="PublishYear" Margin="0,24,0,0" Header="Publish year" MaxLength="4" Width="400"  InputScope="Number" AutomationProperties.IsRequiredForForm="True"/>
+            <TextBox x:ConnectionId='14' x:Name="ItemPrice" Header="Item price" Margin="0,24,0,0" MaxLength="6" Width="130"  InputScope="Number" HorizontalAlignment="left" AutomationProperties.IsRequiredForForm="True"/>
+            <TextBox x:ConnectionId='15' x:Name="Amount" Header="Copies Amount" Margin="0,24,0,0" MaxLength="6" Width="130"  InputScope="Number" HorizontalAlignment="Left" AutomationProperties.IsRequiredForForm="True"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top"  Grid.Column="1" Margin="50,810,450,0" Grid.ColumnSpan="2" >
+            <TextBox x:ConnectionId='5' x:Name="ISBN" Header="ISBN number" PlaceholderText="Only for books" Margin="0,24,20,0" MaxLength="13" Width="130"  InputScope="Number" HorizontalAlignment="Left"/>
+            <TextBox x:ConnectionId='6' x:Name="Version" Header="Version number" PlaceholderText="Only for Journals" Margin="0,24,0,0" MaxLength="6" Width="130"  InputScope="Number" HorizontalAlignment="Left"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" Grid.Column="2" >
+            <Button x:ConnectionId='3' Content="Save" Margin="0,24"                          Background="#333D0A61" FontSize="20" BorderBrush="#4C9C31FF" CornerRadius="10"/>
+            <Button x:ConnectionId='4' Content="Cancel" Margin="24"                            Background="#333D0A61" FontSize="20" BorderBrush="#4C9C31FF" CornerRadius="10"/>
+        </StackPanel>
+
+    </Grid>
+</Page>
+

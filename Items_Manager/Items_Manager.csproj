@@ -122,6 +122,11 @@
   <ItemGroup>
     <Compile Include="Abstract_Item.cs" />
     <Compile Include="Book.cs" />
+    <Compile Include="Discount.cs" />
+    <Compile Include="DiscountManager.cs" />
+    <Compile Include="Enums\DiscountBy.cs" />
+    <Compile Include="Enums\Genre.cs" />
+    <Compile Include="ImageManager.cs" />
     <Compile Include="Journal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Items_Manager.rd.xml" />
@@ -130,6 +135,18 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.14</Version>
     </PackageReference>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.UI.Controls">
+      <Version>7.1.3</Version>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>9.0.1</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JSON_Logic\JSON_Logic.csproj">
+      <Project>{F3321BB1-FB68-409F-A273-7BFE0FCFBE1D}</Project>
+      <Name>JSON_Logic</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

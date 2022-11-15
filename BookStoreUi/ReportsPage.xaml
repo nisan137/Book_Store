@@ -34,8 +34,8 @@
         <TextBlock Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalTextAlignment="Center" TextAlignment="Center"
                    Text="Please choose what kind of report would you like to produce" FontSize="70" TextDecorations="Underline" TextWrapping="Wrap" FontFamily="Gabriola" Foreground="#FFEDC9AB" />
         <ListView Grid.Row="1" Grid.RowSpan="3" Grid.ColumnSpan="2" SelectionMode="Single" Name="ReportListView" Background="#7F2B7F9C"  >
-            <ListViewItem Name="ReportBuyingItems" Content="Produce report based on items that was baought in the past week" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,20,0,90" Tapped="ReportByLastWeekPurchase_Tapped"/>
-            <ListViewItem Name="ReportDiscountItems" Content="Produce report based on current discounted items" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,0,0,90" Tapped="ReportByDiscountedItems_Tapped"/>
+            <ListViewItem Name="ReportBuyingItems" Content="Produce report based on items that was baought from the store" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,20,0,90" Tapped="ReportByPurchase_Tapped"/>
+            <ListViewItem Name="ReportDiscountItems" Content="Produce report based on current discounts available" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,0,0,90" Tapped="ReportByDiscountedItems_Tapped"/>
             <ListViewItem Name="ReportAllItems" Content="Produce report with all inventory items" FontSize="50" Foreground="#FFEDC9AB" FontFamily="Bodoni MT"  VerticalContentAlignment="Bottom" Margin="0,0,0,90" Tapped="ReportByAllInventory_Tapped"/>
         </ListView>
         <Button Name="BackBtn" Grid.Row="4" Grid.Column="1" Content="Back To Main Menu" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontFamily="Gabriola"

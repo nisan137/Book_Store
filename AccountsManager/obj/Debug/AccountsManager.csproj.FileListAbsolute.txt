@@ -1,0 +1,123 @@
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.pri
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.dll
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.pdb
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\priconfig.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\priconfig.xml.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\unfiltered.layout.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\filtered.layout.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\excluded.layout.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\resources.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\resources.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\pri.resfiles
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\pri.resfiles.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\qualifiers.txt
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\ColorCode.UWP.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pri.xml
+C:\Users\ADMIN\Desktop\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.pri
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.CopyComplete
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\ColorCode.UWP.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.dll
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.pdb
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\priconfig.xml
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\priconfig.xml.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\unfiltered.layout.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\filtered.layout.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\excluded.layout.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\resources.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\resources.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\pri.resfiles
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\pri.resfiles.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\qualifiers.txt
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Desktop\מכללת סלע- פיתוח תוכנה\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.pri
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.AssemblyReference.cache
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.CoreCompileInputs.cache
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.csproj.CopyComplete
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\ColorCode.UWP.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Input.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Layout.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Media.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.dll
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\AccountsManager.pdb
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\priconfig.xml
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\priconfig.xml.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\unfiltered.layout.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\filtered.layout.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\excluded.layout.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\resources.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\resources.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\pri.resfiles
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\pri.resfiles.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\qualifiers.txt
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\obj\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,24 +1,27 @@
-﻿using System;
+﻿using InventoryManager;
+using Items_Manager.Enums;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
 
 namespace Items_Manager
 {
     public abstract class Abstract_Item
     {
-        private int _isbn;
         public string ItemType { get; set; }
         public string ItemName { get; set; }
         public double BuyingPrice { get; set; }
-        public long ISBN
+        public long ISBN { get; set; }
+        private Genre genre { get; set; }
+        public Genre GenreEnum
         {
-            get { return _isbn; }
-            protected set { _isbn = (int)value; }
+            get
+            {
+                return genre;
+            }
+            set
+            {
+                genre = value;
+            }
         }
-        public string GenreId { get; set; }
         public string Publisher { get; set; }
         public int PublishYear { get; set; }
         public int CopiesAmount { get; set; }
@@ -27,62 +30,105 @@ namespace Items_Manager
         public string Description
         {
             get
-            {   // Description to show in a TextBlock about the book both in Librarian or User page.
-                if (ItemTypeFigure == "Book")
+            {   // Description to show in a TextBlock about the item.
+                if (GetType().Name == "Book")
                 {
                     return $"{ItemName} is a {ItemType} by author {AuthorName}\nOriginally published on {PublishYear} by publisher {Publisher}\n" +
-                    $"Genre: {GenreEnum} \nBuying price: {BuyingPrice}";
-
+                    $"Genre: {GenreEnum} \nBuying price: {BuyingPrice:c}\n Price after discount: {PriceAfterDiscount:c}";
                 }
                 else
                 {
                     return $"{ItemName} is a {ItemType}, version number {Version}\nOriginally published on {PublishYear} by publisher {Publisher}\n" +
-                    $"Genre: {GenreEnum} \nBuying price: {BuyingPrice}";
+                    $"Genre: {GenreEnum} \nBuying price: {BuyingPrice:c}\nPrice after discount: {PriceAfterDiscount:c}";
                 }
             }
         }
-        private string ItemTypeFigure
+
+        public double PriceAfterDiscount
         {
-            get { return GetType().Name; }
+            get
+            {
+                var temp = CurrentDiscount;
+                if (temp != 0)
+                {
+                    return BuyingPrice - (BuyingPrice * temp / 100);
+                }
+                else
+                    return BuyingPrice;
+            }
+        }
+        public double CurrentDiscount //ההנחה הרלוונטית-הכי גבוהה
+        {
+            get
+            {
+                double maxPercentage = 0;
+                this.DiscountsListPerItem.ForEach(discount =>
+                {
+                    if (discount.Percentage > maxPercentage)
+                    {
+                        maxPercentage = discount.Percentage;
+                    }
+                });
+                return maxPercentage;
+            }
+        }
+        private List<Discount> DiscountsListPerItem
+        {
+            get
+            {
+                var list = DiscountManager.Instance.DiscountList;
+                List<Discount> _discountsListPerItem = new List<Discount>();
+                foreach (Discount discount in list)
+                {
+                    if (this is Book)
+                    {
+                        switch (discount.Type)
+                        {
+                            case DiscountBy.ItemType:
+                                if (this.GetType().Name.Equals(discount.ValueOfType))
+                                    _discountsListPerItem.Add(discount);
+                                break;
+                            case DiscountBy.Publisher:
+                                if (this.Publisher.Equals(discount.ValueOfType))
+                                    _discountsListPerItem.Add(discount);
+                                break;
+                            case DiscountBy.AuthorName:
+                                if (this.AuthorName.Equals(discount.ValueOfType))
+                                    _discountsListPerItem.Add(discount);
+                                break;
+                            case DiscountBy.Genre:
+                                if (this.GenreEnum.ToString().Equals(discount.ValueOfType))
+                                    _discountsListPerItem.Add(discount);
+                                break;
+                        }
+                    }
+                    else if (this is Journal)
+                    {
+                        switch (discount.Type)
+                        {
+                            case DiscountBy.ItemType:
+                                if (this.GetType().Name.Equals(discount.ValueOfType))
+                                    _discountsListPerItem.Add(discount);
+                                break;
+                            case DiscountBy.Publisher:
+                                if (this.Publisher.Equals(discount.ValueOfType))
+                                    _discountsListPerItem.Add(discount);
+                                break;
+                            case DiscountBy.Genre:
+                                if (this.GenreEnum.ToString().Equals(discount.ValueOfType))
+                                    _discountsListPerItem.Add(discount);
+                                break;
+                        }
+                    }
+                }
+                return _discountsListPerItem;
+            }
         }
 
+        public string ImagePath { get; set; }
         public override string ToString()
         {
             return ItemName;
         }
-        public double Discount { get; set; }
-
-        public string ImagePath { get; set; }
-
-        public Genre GenreEnum
-        {
-            get
-            {
-                Genre value;
-                if (!Enum.TryParse(GenreId, out value))
-                    value = Genre.GeneralGenre; // default value, instead of Exception throwing
-
-                return value;
-            }
-
-            protected set { }
-        }
-
     }
-    public enum Genre
-    {
-        GeneralGenre,
-        Comedy,
-        Fantasy,
-        Drama,
-        Novel,
-        ScienceFiction,
-        Documantry,
-        Thriller,
-        Childrens,
-        Buisness,
-        Entertainment,
-        Science
-    };
-
 }

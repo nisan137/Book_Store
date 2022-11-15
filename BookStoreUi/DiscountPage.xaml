@@ -1,0 +1,66 @@
+﻿<Page
+    x:Class="BookStoreUi.DiscountPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookStoreUi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition  />
+            <RowDefinition Height="3*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" MappingMode="RelativeToBoundingBox" SpreadMethod="Reflect">
+                <LinearGradientBrush.RelativeTransform>
+                    <CompositeTransform CenterY="0.5" CenterX="0.5" SkewX="20" SkewY="68"/>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF649CCC" Offset="0.963"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="5" Text="Discount Manager" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource TitleTextBlockStyle}"
+                   FontSize="40" TextAlignment="Center" TextDecorations="Underline" />
+        <StackPanel HorizontalAlignment="Center"  Grid.Column="1" Grid.Row="1">
+            <TextBlock Text="Add New Discount" TextDecorations="Underline" Style="{StaticResource TitleTextBlockStyle}"/>
+
+            <ListView Grid.Column="3" Grid.Row="0" Grid.RowSpan="4" x:Name="ListViewDiscount" Header="Discount By:"  Width="200" Height="180"  
+                  Background="#FFF7ECEC" SelectionChanged="ListViewFilter_SelectionChanged" FocusVisualPrimaryBrush="#FFFFEBEB" >
+                <ListViewItem x:Name="FiltType" Content="Type" FocusVisualPrimaryBrush="#FFFFEBEB"></ListViewItem>
+                <ListViewItem x:Name="FiltPublisher" Content="Publisher" FocusVisualPrimaryBrush="#FFFFEBEB"></ListViewItem>
+                <ListViewItem x:Name="FiltAuthor" Content="Author" FocusVisualPrimaryBrush="#FFFFEBEB"></ListViewItem>
+                <ListViewItem x:Name="FiltGenre" Content="Genre" FocusVisualPrimaryBrush="#FFFFEBEB"></ListViewItem>
+            </ListView>
+
+            <ComboBox x:Name="SubFilter" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="3" Header="Sub Filter:" Width="200" IsEnabled="False" 
+                   SelectionChanged="SubFilter_SelectionChanged" Grid.RowSpan="2" VerticalAlignment="Top" Foreground="AntiqueWhite" HorizontalAlignment="Center"/>
+
+            <TextBox x:Name="DiscountPercentage" Header="Discount Percentage" PlaceholderText="By Percentage" Margin="0,24,0,0" MaxLength="6" Width="130"  InputScope="Number" HorizontalAlignment="left"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="3" Margin="0,0,30,0">
+            <TextBlock Text="Current Active Discounts" Style="{StaticResource TitleTextBlockStyle}" HorizontalAlignment="Center"  TextDecorations="Underline"/>
+            <controls:DataGrid Name="DiscountGridView" Margin="5" FontFamily="Aharoni" FontSize="12" AllowFocusOnInteraction="False"
+                        CanUserSortColumns="True" AlternatingRowBackground="AliceBlue" AutoGenerateColumns="True" GridLinesVisibility="All" RowBackground="#FF7FBCF1">
+                <controls:DataGrid.HorizontalGridLinesBrush>
+                    <SolidColorBrush Color="#FF72ADE0" Opacity="0.4"/>
+                </controls:DataGrid.HorizontalGridLinesBrush>
+            </controls:DataGrid>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center"  >
+            <Button Content="Save" Margin="0,24" Click="SaveButton_Click" Background="#333D0A61" FontSize="20" BorderBrush="#4C9C31FF" CornerRadius="10"/>
+            <Button Content="Remove Discount" Margin="24" Click="RemoveDiscount_Click" Background="#333D0A61" FontSize="20" BorderBrush="#4C9C31FF" CornerRadius="10"/>
+            <Button Content="Cancel" Margin="0,24" Click="CancelButton_Click" Background="#333D0A61" FontSize="20" BorderBrush="#4C9C31FF" CornerRadius="10"/>
+        </StackPanel>
+    </Grid>
+</Page>

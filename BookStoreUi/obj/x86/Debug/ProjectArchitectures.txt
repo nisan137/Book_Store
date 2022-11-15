@@ -1,4 +1,0 @@
-C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\AccountsManager\AccountsManager.csproj;x86
-C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\BookStoreUi\BookStoreUi.csproj;x86
-C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\InventoryManager\InventoryManager.csproj;x86
-C:\Users\ADMIN\Desktop\מכללת סלע- פיתוח תוכנה\OOC\finalProjectBookStore\BookStoreNumber10000000\Items_Manager\Items_Manager.csproj;x86

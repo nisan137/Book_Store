@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-NIFV3QC0</Machine>
+    <WindowsUser>nisan</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>5f618b0e-802e-4942-b387-182029bc1a89</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ADMIN</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>8E9DA86BF5311B9F37D53D823CF07C8EA066372B0F1BD83B8BAB90AD6A0DB467</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5f618b0e-802e-4942-b387-182029bc1a89_1.0.0.0_x64__mdtdy63a0eab0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5f618b0e-802e-4942-b387-182029bc1a89_mdtdy63a0eab0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5f618b0e-802e-4942-b387-182029bc1a89</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ADMIN</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-14T18:53:20.323</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.exe">
+      <PackagePath>entrypoint\BookStoreUi.exe</PackagePath>
+      <Modified>2022-11-14T18:53:18.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\colorcode.core\2.0.6\lib\netstandard1.4\ColorCode.Core.dll">
+      <PackagePath>ColorCode.Core.dll</PackagePath>
+      <Modified>2018-10-05T23:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\colorcode.uwp\2.0.6\lib\uap10.0\ColorCode.UWP.dll">
+      <PackagePath>ColorCode.UWP.dll</PackagePath>
+      <Modified>2018-10-05T23:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2020-10-19T18:40:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit\7.1.2\lib\netstandard2.0\Microsoft.Toolkit.dll">
+      <PackagePath>Microsoft.Toolkit.dll</PackagePath>
+      <Modified>2021-11-18T22:28:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.dll</PackagePath>
+      <Modified>2022-11-01T17:32:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.dll</PackagePath>
+      <Modified>2022-11-01T17:32:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.core\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Core.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Core.dll</PackagePath>
+      <Modified>2022-11-01T17:33:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.datagrid\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll</PackagePath>
+      <Modified>2022-11-01T17:33:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.input\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Input.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Input.dll</PackagePath>
+      <Modified>2022-11-01T17:33:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.layout\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Layout.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Layout.dll</PackagePath>
+      <Modified>2022-11-01T17:33:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.markdown\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Markdown.dll</PackagePath>
+      <Modified>2022-11-01T17:33:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.media\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Media.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Media.dll</PackagePath>
+      <Modified>2022-11-01T17:33:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.primitives\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Primitives.dll</PackagePath>
+      <Modified>2022-11-01T17:33:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\newtonsoft.json\9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-06-13T23:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2022-06-10T19:23:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\system.runtime.compilerservices.unsafe\5.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2020-10-19T18:46:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\system.text.encodings.web\5.0.1\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+      <Modified>2021-02-16T21:53:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\system.text.json\5.0.2\lib\netstandard2.0\System.Text.Json.dll">
+      <PackagePath>System.Text.Json.dll</PackagePath>
+      <Modified>2021-03-16T22:34:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\win2d.uwp\1.25.0\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2020-04-02T19:46:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\xamarin.forms\5.0.0.2515\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2022-07-20T08:02:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\xamarin.forms\5.0.0.2515\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
+      <PackagePath>Xamarin.Forms.Platform.UAP.dll</PackagePath>
+      <Modified>2022-07-20T08:02:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\xamarin.forms\5.0.0.2515\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2022-07-20T08:02:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\xamarin.forms\5.0.0.2515\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2022-07-20T08:02:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\AccountsManager\bin\Debug\AccountsManager.dll">
+      <PackagePath>AccountsManager.dll</PackagePath>
+      <Modified>2022-11-09T15:35:32.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\InventoryManager\bin\Debug\InventoryManager.dll">
+      <PackagePath>InventoryManager.dll</PackagePath>
+      <Modified>2022-11-14T18:53:07.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\Items_Manager\bin\Debug\Items_Manager.dll">
+      <PackagePath>Items_Manager.dll</PackagePath>
+      <Modified>2022-11-09T21:28:15.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\JSON_Logic\bin\Debug\JSON_Logic.dll">
+      <PackagePath>JSON_Logic.dll</PackagePath>
+      <Modified>2022-11-09T15:35:32.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\win2d.uwp\1.25.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2020-04-02T19:44:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2020-12-02T01:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.core\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml</PackagePath>
+      <Modified>2022-11-01T17:20:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.datagrid\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml</PackagePath>
+      <Modified>2022-11-01T17:17:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.input\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Input\Microsoft.Toolkit.Uwp.UI.Controls.Input.xr.xml</PackagePath>
+      <Modified>2022-11-01T17:20:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.layout\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Layout\Microsoft.Toolkit.Uwp.UI.Controls.Layout.xr.xml</PackagePath>
+      <Modified>2022-11-01T17:20:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.markdown\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Markdown\Microsoft.Toolkit.Uwp.UI.Controls.Markdown.xr.xml</PackagePath>
+      <Modified>2022-11-01T17:21:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.toolkit.uwp.ui.controls.media\7.1.3\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml</PackagePath>
+      <Modified>2022-11-01T17:20:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\xamarin.forms\5.0.0.2515\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
+      <Modified>2022-07-20T07:56:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\backgrondBook.png">
+      <PackagePath>Assets\backgrondBook.png</PackagePath>
+      <Modified>2022-10-12T06:32:23.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\BearPaddington.png">
+      <PackagePath>Assets\BearPaddington.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\BookQout.png">
+      <PackagePath>Assets\BookQout.png</PackagePath>
+      <Modified>2022-10-13T09:22:40.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\DrSeuss.png">
+      <PackagePath>Assets\DrSeuss.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\firstPage.png">
+      <PackagePath>Assets\firstPage.png</PackagePath>
+      <Modified>2022-10-11T11:48:15.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\ForbsMagazine.png">
+      <PackagePath>Assets\ForbsMagazine.png</PackagePath>
+      <Modified>2022-10-12T09:36:38.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\GoneWithTheWind.png">
+      <PackagePath>Assets\GoneWithTheWind.png</PackagePath>
+      <Modified>2022-10-12T09:24:08.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\GqMagazine.png">
+      <PackagePath>Assets\GqMagazine.png</PackagePath>
+      <Modified>2022-10-12T09:36:38.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter1.png">
+      <PackagePath>Assets\HarryPotter1.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter2.png">
+      <PackagePath>Assets\HarryPotter2.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter3.png">
+      <PackagePath>Assets\HarryPotter3.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter4.png">
+      <PackagePath>Assets\HarryPotter4.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter5.png">
+      <PackagePath>Assets\HarryPotter5.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter6.png">
+      <PackagePath>Assets\HarryPotter6.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\HarryPotter7.png">
+      <PackagePath>Assets\HarryPotter7.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Hobbit.png">
+      <PackagePath>Assets\Hobbit.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\JamesAndTheGiantPeach.png">
+      <PackagePath>Assets\JamesAndTheGiantPeach.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\LittleHouse.png">
+      <PackagePath>Assets\LittleHouse.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\LoveAndWar.png">
+      <PackagePath>Assets\LoveAndWar.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\PeterPan.png">
+      <PackagePath>Assets\PeterPan.png</PackagePath>
+      <Modified>2022-10-16T14:01:04.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\PooBook.png">
+      <PackagePath>Assets\PooBook.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\purpleLogo-removebg-preview.png">
+      <PackagePath>Assets\purpleLogo-removebg-preview.png</PackagePath>
+      <Modified>2022-10-11T11:48:15.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\RobinsonCrusoe.png">
+      <PackagePath>Assets\RobinsonCrusoe.png</PackagePath>
+      <Modified>2022-10-12T09:24:08.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\ScientificAmericanMagazine.png">
+      <PackagePath>Assets\ScientificAmericanMagazine.png</PackagePath>
+      <Modified>2022-10-12T09:36:38.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\ShadowAndBone.png">
+      <PackagePath>Assets\ShadowAndBone.png</PackagePath>
+      <Modified>2022-10-12T09:02:48.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T10:24:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\TheAlchemist.png">
+      <PackagePath>Assets\TheAlchemist.png</PackagePath>
+      <Modified>2022-10-12T09:02:48.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\TheGreatGatsby.png">
+      <PackagePath>Assets\TheGreatGatsby.png</PackagePath>
+      <Modified>2022-10-12T09:24:08.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Vogue.png">
+      <PackagePath>Assets\Vogue.png</PackagePath>
+      <Modified>2022-10-16T14:37:52.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\WeAreGiants.png">
+      <PackagePath>Assets\WeAreGiants.png</PackagePath>
+      <Modified>2022-10-12T08:19:17.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-09-25T06:51:06.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-25T06:51:06.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-25T06:51:06.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-25T06:51:06.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-25T06:51:06.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-25T06:51:06.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-25T06:51:06.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2022-10-11T11:46:03.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\BookStoreUi.xr.xml">
+      <PackagePath>BookStoreUi.xr.xml</PackagePath>
+      <Modified>2022-11-09T21:21:13.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\AddItemPage.xbf">
+      <PackagePath>AddItemPage.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\CatalogPage.xbf">
+      <PackagePath>CatalogPage.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\DiscountPage.xbf">
+      <PackagePath>DiscountPage.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\InventoryPage.xbf">
+      <PackagePath>InventoryPage.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\PurchaseItem.xbf">
+      <PackagePath>PurchaseItem.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportByAllInventory.xbf">
+      <PackagePath>ReportByAllInventory.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportByBoughtItems.xbf">
+      <PackagePath>ReportByBoughtItems.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportByDiscount.xbf">
+      <PackagePath>ReportByDiscount.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\ReportsPage.xbf">
+      <PackagePath>ReportsPage.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\StoreIntro.xbf">
+      <PackagePath>StoreIntro.xbf</PackagePath>
+      <Modified>2022-11-14T18:53:18.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2020-12-02T02:31:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2020-12-01T23:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-11-09T21:28:28.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\שולחן העבודה\פרוייקט מסכם C#\Book_Store\Book_Store\BookStoreNumber10000000\BookStoreUi\bin\x64\Debug\Core\BookStoreUi.exe">
+      <PackagePath>BookStoreUi.exe</PackagePath>
+      <Modified>2022-11-14T18:53:20.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
+      <Modified>2021-09-14T09:06:08.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.7.appx">
+      <Name>Microsoft.UI.Xaml.2.7</Name>
+      <Version>7.2109.13004.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.7, MinVersion = 7.2109.13004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.7.appx">
+      <Name>Microsoft.UI.Xaml.2.7</Name>
+      <Version>7.2109.13004.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.7, MinVersion = 7.2109.13004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.7.appx">
+      <Name>Microsoft.UI.Xaml.2.7</Name>
+      <Version>7.2109.13004.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.7, MinVersion = 7.2109.13004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.7.appx">
+      <Name>Microsoft.UI.Xaml.2.7</Name>
+      <Version>7.2109.13004.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.7, MinVersion = 7.2109.13004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.7.appx">
+      <Name>Microsoft.UI.Xaml.2.7</Name>
+      <Version>7.2109.13004.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.7, MinVersion = 7.2109.13004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nisan\.nuget\packages\microsoft.ui.xaml\2.7.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
